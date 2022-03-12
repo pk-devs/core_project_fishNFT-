@@ -1,0 +1,228 @@
+body {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  gap: 0.5em;
+  flex-flow: row wrap;
+  max-width: 40vw;
+  margin: auto;
+  align-items: baseline;
+}
+
+#greeting {
+  margin: 15px auto;
+  padding: 15px 60px;
+  border: 2px solid darkorchid;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
+
+}
+
+#greeting:empty {
+  display: none;
+}
+
+
+
+body {
+  background-color: #022c86;
+}
+
+/* my styling */ 
+
+/* Sections and divs */ 
+
+section {
+  text-align: center;
+  /* margin: 200px 0px 0px 0px; */
+  padding: 25px 0px 0px 0px;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-div {
+  padding-top: 100px;
+}
+
+
+/* Buttons */ 
+
+button {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
+  padding: 17px 50px;
+  padding-top: 15px;
+  margin-top: 50px;
+  cursor: pointer;
+  background: #29ABE2;
+  color: blue;
+  border: solid;
+  border-color: black;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+button:hover {
+  background-color: darkblue;
+  color:darkorchid;
+  font: Fantasy;
+  border-color: orchid; 
+}
+
+
+.stoic_button {
+  margin-bottom: 50px;
+}
+
+
+/* Headings and paragraph */
+
+h1 { 
+  
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
+  font-size: 42px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 500; 
+  line-height: 26.4px; 
+}
+
+h2 {
+  color: black;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
+  size: 22px;
+  font-weight: 500; 
+}
+
+h3 {
+  color: darkorchid;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
+  size: 16px;
+}
+
+.headline_transfer {
+  margin-top: 75px;
+}
+
+p {
+  color:darkorchid;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.para {
+  padding-top: 150px 0px 0px 0px;  /* Custom paragraph, whale */ 
+}
+
+.phototext {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
+  padding: 15px;
+  text-align: center;
+}
+
+.transfer_to {
+  padding-top: 25px;
+  margin-right: 13px;
+}
+
+.copy {
+  font-size: 14px;
+}
+
+/* Forms, input & labels */ 
+
+.form-principal {
+  padding: 15px;
+}
+
+.form-tokenURI {
+  padding: 15px;
+}
+
+.input_principal {
+  padding-right: 75px;
+}
+
+.input_tokenURI {
+  padding-right: 75px;
+}
+
+.transfer_from {
+  padding-right: 75px;
+}
+
+.transfer_to_input {
+  margin-left: 25px;
+  margin-top: 25px;
+  padding-right: 75px;
+}
+
+label {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy; 
+}
+
+/* Align content on page */ 
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  padding: 0px;
+  padding-bottom: 100px;
+}
+
+.wrapper2 {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  padding: 0px;
+}
+
+/* Img, NFTs & favi */ 
+
+.photos {
+  margin: 5px;
+  float: left;
+  width: 480px;
+}
+
+.photos img {
+  width: 100%;
+  height: auto;
+}
+
+.favi {
+  max-width: 25px;
+  max-height: auto;
+}
+
+/* Footer and end of page */
+
+.footer {
+  padding-bottom: 200px;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.bottompage {
+  padding-top: 50px;
+}
+
+
+
+
+
+
+

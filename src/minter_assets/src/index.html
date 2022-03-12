@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Fishy's fishyNFT minter</title>
+    <base href="/" />
+    <link rel="icon" href="favicon.ico" />
+    <link type="text/css" rel="stylesheet" href="main.css" /> 
+  
+  </head>
+  
+  <body>
+
+    <div class="top-div">
+      <h1>
+        <strong style="font-size: 58px;">W</strong>elcome to Fishy's <strong style="font-size: 48px;">fishyNFT</strong> pond!
+      </h1>
+        <br> <!-- Must be a better way to do this, play around in main.css if there is time -->
+        <br>
+    </div>
+      <br> 
+    <div><p class="para">- big, heavy whale code built on shark like tech</p></div><img class="favi" src="favicon.ico">
+  
+  <div>
+      <button class="stoic_button" id="button_sign_in_stoic" type="button">Sign in with Stoic </button>
+     <!-- <button id="button_sign_in_ii" type="button">Sign in with Internet Identity </button> -->
+  </div>
+
+    <section>
+      <h2><strong>M</strong>int your own Fishy's fishyNFT <strong>fish!</strong> </h2>
+        <p class="para">Click the fish to add tokenURI</p>
+<br>
+      <div class="wrapper">
+        <div>  
+            <button class="photos" id="nft"> <!-- id have to be "nft" otherwise gretting with info does not print -->
+              <img src="BLUE_RED.svg" alt="what a fish!">
+              <h2 class="copy">Copy this URI to Mint: https://s6fd5-yiaaa-aaaag-qadbq-cai.raw.ic0.app/fishBLUE</h2>
+            </button>  
+        </div>
+        
+        <div>
+          <button class="photos" id="nft">
+            <img src="CROWN.svg" alt="what a fish!">
+            <h2 class="copy">Copy this URI to Mint: https://s6fd5-yiaaa-aaaag-qadbq-cai.raw.ic0.app/fishCROW</h2>
+          </button>  
+        </div>
+
+      <div>
+        <button class="photos" id="nft">
+          <img src="GREEN.svg" alt="what a fish!">
+          <h2 class="copy">Copy this URI to Mint: https://s6fd5-yiaaa-aaaag-qadbq-cai.raw.ic0.app/GREE</h2>
+        </button>  
+      </div>
+
+</section>
+
+
+    <main>
+      <Section class="wrapper2">
+        <div></div>
+          <div><p>We are currently working on an autofill function for your principal. Many fishy apologies but until then, please open console and copy paste your principal below</p></div>
+        <div></div>
+      </Section>
+
+      <form class="form-tokenURI" action="#">
+      
+        <label for="name">Enter a tokenURI: &nbsp;</label>
+        <input class="input_tokenURI" id="name" alt="Name" type="text" />
+      
+      </form>
+      <form class="form-principal" action="#">
+        <label for="add">Enter a principal: &nbsp;</label>
+        <input class="input_principal" id="principal" alt="Name" type="text" />      
+      </form>
+      
+      <div> 
+        <button id="mint" type="submit">Mint your fish !</button>      
+      </div>
+      
+      <div class="bottompage" id="greeting"></div>
+   
+
+      <section>
+        <h2 class="headline_transfer"> Upcoming features! Code is being built for...  </h2>
+
+        <br>
+        <h2 class="headline_transfer"> <strong>T</strong>ransfer your <strong>NFT</strong> to another principal </h2>
+      </section>
+ 
+      <section class="transfer_nft">                
+        <div>
+          <label for="from">Transfer _FROM_ principal: &nbsp;</label>
+          <input class="transfer_from" id="principal_transfer_from" alt="Name" type="text" />
+        </div>
+      
+        <div>
+          <label class="transfer_to" for="to">Transfer _TO_ principal: &nbsp;</label>
+          <input class="transfer_to_input" id="principal_transfer_to" alt="Name" type="text" />
+        </div>
+</section>          
+      
+      <div>
+         <button id="button-transfer-nft" type="submit">Transfer NFT</button>
+      </div>
+   
+
+    </main>
+ 
+  </body>
+  
+  <footer class="footer">
+    <h2>Thank you! <br> I wish you a fishtastic day! </h2>
+  </footer>
+
+  </html>

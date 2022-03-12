@@ -1,0 +1,65 @@
+Hey! 
+First, let me say thank you for the opportunity to attend this bootcamp! You have done a great job and I am very grateful for your time, effort and patience, thank you very much! 
+
+I think you have done a great job and I would like to help IC and Motoko so more people can join and learn. Here are some of my insights from being a super beginner student at Motoko Bootcamp 2022. 
+
+Background so you know my level and can accordingly adapt my feedback:
+
+I do not have any coding experience from before. I have built a webpage using WordPress and Elementor pagebuilder before and I did read up on the terminal, html, css and javascript before the course.  
+
+
+I feel like I have spent many hours trying to learn:
+
+    - Using terminal 
+    - Github (Make sure to include Seb's 7 minute video, very useful information) 
+    - General computer sience (CS50 course video helped me alot)
+    - dfx deploy etc. 
+
+I have used the resources provided but when I am a complete blank canvas from start even the little bits and pieces are hard to connect dots between. The Devs Hours have been good but I have not asked my questions regarding other topics than IC and Motoko 
+to respect the bootcamp and other students who are further in their development, therefore I suggest to have a "Pre-Bootcamp Bootcamp" where all basics are covered. Only manditory for Beginners. 
+
+As I am writing this, it is 5 hours to Core Project deadline and last night I spend 15 hours learning html and css in order to have a frontend for my core project.
+I think it would be useful to have a crash course in html and css in the "Pre-Bootcamp Bootcamp" as well since it is pretty basic but if 
+you have not learnt it yet, you do not know it.  
+
+The way I would structure the next bootcamp: 
+
+The diploma one receive after completion is a NFT with 5 different compartments. 4 parts makes out a blank canvas and the 5th part is the text and creatives for the diploma. 
+
+The first 4 parts of the canvas is actually a module of the Bootcamp. 
+
+Module 1 : Pre-Bootcamp Bootcamp
+Module 2 : Beginner level coding 
+Module 3 : Beginner/Intermediate level coding 
+Module 4 : Intermediate level coding 
+Module 5 : Core project (different requirments for beginner vs Intermediate)
+
+Each module has it's daily challenges and after a completion of a module the student recieves a part of the canvas (great for motivation to get some reward in the middle of the bootcamp, keeps spirit and motivation high)
+
+A student need to complete all modules to receive the diploma. For the sake of easy let's say that each module = 1 week. 
+
+The bootcamp has 3 different entry points, the 3 first modules. 
+
+If an intermediate student want to enter at module 3, she/he needs to complete all the daily challenges in each of the previous modules. 
+
+I would try to implement gamification to the bootcamp through various of challenges which gives you rewards and where we can have a leaderboard to broadcast (not all coding related so the beginners can be on the top of some leaderboards as well)
+
+
+I recommend having some devs mentors who are able to help with debugging and troubleshooting easy terminal/github/html/css problems that comes up. I encountered many problems learning css and spent hours in 
+forums to find the answer, only if someone had told me this is the way, I could have been more efficient and could have learnt more Motoko (which is the goal here in my opinion, let's get a lot of devs on the IC and grow the ecosystem)
+
+I will happly help at the next bootcamp sharing the little knowledge that I have so the Dev Mentors can focus their time on learning out Motoko. 
+
+If I think about my skills prior to this bootcamp, it is safe to say that I have learned a lot! But I would love to learn more Motoko since I believe in the IC and the project. 
+
+
+I hope this will help you in some way. All in all, great first bootcamp and I am super happy that I've attended. I feel like I know how to 
+navigate a terminal without any problems, I've learnt to use VS Code, I know the basics of HTML, CSS and very little JavaScript and Motoko. 
+
+If you have any questions or feedback, do not hesitate to reach out! 
+
+All the best and good luck with everything! 
+
+//herta
+
+
