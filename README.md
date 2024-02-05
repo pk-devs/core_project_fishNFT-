@@ -1,4 +1,6 @@
-# Motoko bootcamp : NFT minter. 
+# Motoko bootcamp : My final project, a NFT minter. 
+
+During the Motoko bootcamp I aquired new skills and built this NFT minter as my final project. 
 
 Basic NFT minter inspired by the DIP 721 standard (implementation not guarantee, consider this example as an educational ressource. For a production project with DIP721, please take a look at the official DIP721 repo).
 
